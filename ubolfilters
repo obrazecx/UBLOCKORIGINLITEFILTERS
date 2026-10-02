@@ -1,4 +1,5 @@
 
+vk.ru##.vkuiPopoutWrapper__container
 app.mail.ru##div#mini-notify-stack
 app.mail.ru##div#leftnav.leftnav_rounded
 mail.ru##div.dimmer_new-toolbar
@@ -8,4 +9,4 @@ mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
 pikabu.ru##.sidebar-game
 pikabu.ru##.feed-games-carousel_feed.feed-games-carousel.carousel_small.carousel
-vk.ru##.vkuiPopoutWrapper__container
+pikabu.ru##div.sidebar-block-links.sidebar-block_border.sidebar-block
