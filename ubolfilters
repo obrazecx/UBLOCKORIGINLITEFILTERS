@@ -3,6 +3,7 @@ ya.ru##.DistributionInfo
 web.max.ru##nav > div > div > div > div > div:nth-of-type(2) > div > button
 vk.ru##.vkuiPopoutWrapper__container
 app.mail.ru##div#leftnav.leftnav_rounded
+mail.ru##div.index__divkit
 mail.ru##div.mini-notify-stack
 mail.ru##div.dimmer_new-toolbar
 mail.ru##div.layer-sent-page__mailspace-promo
