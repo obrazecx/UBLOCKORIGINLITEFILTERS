@@ -18,3 +18,4 @@ pikabu.ru##.promo-banner_button.promo-banner
 pikabu.ru##.sidebar-products-temp
 pikabu.ru##.footer_show.footer > .footer__inner > .footer__app
 pikabu.ru##.footer_show.footer > .footer__inner > .footer__social
+pikabu.ru##.story:has(.story__user-link[href*="/@PikabuGames"])
