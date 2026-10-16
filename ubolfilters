@@ -6,7 +6,7 @@ ya.ru##.DistributionInfo
 web.max.ru##nav > div > div > div > div > div:nth-of-type(2) > div > button
 vk.ru##.vkuiPopoutWrapper__container
 app.mail.ru##div#leftnav.leftnav_rounded
-app.mail.ru##div.index__divkit
+app.mail.ru##[style="background: rgb(255, 255, 255);"]
 app.mail.ru##mini-notify-stack
 mail.ru##div.mini-notify-stack
 mail.ru##div.dimmer_new-toolbar
