@@ -1,6 +1,9 @@
 investing.com##[style="background: rgb(255, 107, 0);"]
 investing.com##section > div > a[href][title][style][data-google-interstitial]
 navigator-lxa.mail.com##button.nav-upgrade-button
+yandex.ru,ya.ru##a[data-tab-id="alice_chat"]
+yandex.ru,ya.ru##a[data-tab-id="realty"]
+yandex.ru,ya.ru##a[data-tab-id="finance"]
 ya.ru##.JustifierRowLayout-Incut
 ya.ru##.DistributionInfo
 web.max.ru##nav > div > div > div > div > div:nth-of-type(2) > div > button
