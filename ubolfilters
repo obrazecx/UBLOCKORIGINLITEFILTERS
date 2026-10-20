@@ -9,10 +9,12 @@ ya.ru##.JustifierRowLayout-Incut
 ya.ru##.DistributionInfo
 web.max.ru##nav > div > div > div > div > div:nth-of-type(2) > div > button
 vk.ru##.vkuiPopoutWrapper__container
+mail.ru,app.mail.ru##div[class^="WidgetButton"]
+mail.ru,app.mail.ru##div[class^="WidgetButton_container"]
+mail.ru,app.mail.ru##div[class^="WidgetButton_content"]
 app.mail.ru##div#leftnav.leftnav_rounded
 app.mail.ru##[style="background: rgb(255, 255, 255);"]
-app.mail.ru##mini-notify-stack
-mail.ru##div.mini-notify-stack
+mail.ru,app.mail.ru##mini-notify-stack
 mail.ru##div.dimmer_new-toolbar
 mail.ru##div.thread__footer
 mail.ru##div.layer-sent-page__mailspace-promo
