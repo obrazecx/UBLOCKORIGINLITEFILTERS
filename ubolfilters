@@ -1,15 +1,16 @@
+#Investing
 investing.com##[style="background: rgb(255, 107, 0);"]
 investing.com##section > div > a[href][title][style][data-google-interstitial]
-navigator-lxa.mail.com##button.nav-upgrade-button
+#Yandex
 yandex.ru,ya.ru##a[data-testid="headline.plus"]
 yandex.ru,ya.ru##a[data-tab-id="alice_chat"]
 yandex.ru,ya.ru##a[data-tab-id="realty"]
 yandex.ru,ya.ru##a[data-tab-id="finance"]
 ya.ru##.JustifierRowLayout-Incut
 ya.ru##.DistributionInfo
-web.max.ru##button:has-text(Звонки)
-web.max.ru##button:has-text(Каналы)
 vk.ru##.vkuiPopoutWrapper__container
+#Mail
+navigator-lxa.mail.com##button.nav-upgrade-button
 mail.ru,app.mail.ru##div[class^="WidgetButton"]
 mail.ru,app.mail.ru##div[class^="WidgetButton_container"]
 mail.ru,app.mail.ru##div[class^="WidgetButton_content"]
@@ -22,6 +23,7 @@ mail.ru##div.layer-sent-page__mailspace-promo
 mail.ru##div.layer-window__container
 mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
+#Pikabu
 pikabu.ru##div.story-block.story-block_type_fundraising
 pikabu.ru##.sidebar-game
 pikabu.ru##.feed-games-carousel_feed.feed-games-carousel.carousel_small.carousel
@@ -32,3 +34,6 @@ pikabu.ru##.footer_show.footer > .footer__inner > .footer__app
 pikabu.ru##.footer_show.footer > .footer__inner > .footer__social
 pikabu.ru##.story:has(.story__user-link[href*="/@PikabuGames"])
 lk.cdek.ru##iframe[width][scrolling][src][style]
+#
+web.max.ru##button:has-text(Звонки)
+web.max.ru##button:has-text(Каналы)
