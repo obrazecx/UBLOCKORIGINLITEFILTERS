@@ -11,7 +11,7 @@ ya.ru##.DistributionInfo
 vk.ru##.vkuiPopoutWrapper__container
 #Mail
 mail.ru##div[class^="horoscope"]
-mail.ru,app.mail.ru##div[class^="ponyMode"]
+mail.ru,app.mail.ru##div[class^="widgetContainer"]
 navigator-lxa.mail.com##button.nav-upgrade-button
 mail.ru,app.mail.ru##div[class^="WidgetButton"]
 mail.ru,app.mail.ru##div[class^="WidgetButton_container"]
