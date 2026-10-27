@@ -26,6 +26,8 @@ mail.ru##div.layer-window__container
 mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
 #Pikabu
+pikabu.ru##div[id="menu-companies"]
+pikabu.ru##.header_with-ads[style] a[href="/alfa"]
 pikabu.ru##div.story-block.story-block_type_fundraising
 pikabu.ru##.sidebar-game
 pikabu.ru##.feed-games-carousel_feed.feed-games-carousel.carousel_small.carousel
