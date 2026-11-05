@@ -17,6 +17,10 @@ mail.ru,app.mail.ru##div[class^="WidgetButton"]
 mail.ru,app.mail.ru##div[class^="WidgetButton_container"]
 mail.ru,app.mail.ru##div[class^="WidgetButton_content"]
 app.mail.ru##div#leftnav.leftnav_rounded
+mail.ru,app.mail.ru##[style="background-color: rgb(255, 255, 255);"]
+mail.ru,app.mail.ru##[style="box-shadow: rgba(0, 16, 61, 0.19);"]
+mail.ru,app.mail.ru##div[class^="divkit"]
+mail.ru,app.mail.ru##div[class^="index__divkit"]
 app.mail.ru##[style="background: rgb(255, 255, 255);"]
 mail.ru,app.mail.ru##mini-notify-stack
 mail.ru##div.dimmer_new-toolbar
