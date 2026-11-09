@@ -2,6 +2,7 @@
 investing.com##[style="background: rgb(255, 107, 0);"]
 investing.com##section > div > a[href][title][style][data-google-interstitial]
 #Yandex
+yandex.ru,ya.ru##[data-chunk][data-ssr-uid] > [aria-hidden][tabindex] div
 yandex.ru,ya.ru##a[data-testid="headline.plus"]
 yandex.ru,ya.ru##a[data-tab-id="alice_chat"]
 yandex.ru,ya.ru##a[data-tab-id="realty"]
