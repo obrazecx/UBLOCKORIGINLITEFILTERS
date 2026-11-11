@@ -31,6 +31,11 @@ mail.ru##div.layer-window__container
 mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
 #Pikabu
+pikabu.ru##div.thematic-campaign
+pikabu.ru###menu-companies
+pikabu.ru##a.sidebar-menu__item_alfa
+pikabu.ru##a[href][rel][data-button]
+pikabu.ru##div[class^="header__app-link-wrapper"]
 pikabu.ru##div[id="menu-companies"]
 pikabu.ru##.header_with-ads[style] a[href="/alfa"]
 pikabu.ru##div.story-block.story-block_type_fundraising
