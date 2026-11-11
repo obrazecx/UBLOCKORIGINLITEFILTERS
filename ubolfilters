@@ -33,8 +33,8 @@ mail.ru##div.themes-widget-cloudy__button
 #Pikabu
 pikabu.ru##div.thematic-campaign
 pikabu.ru##a[href*="alfa"]
-pikabu.ru##a[href*="companies]
-pikabu.ru##a[href*="mediakit]
+pikabu.ru##a[href*="companies"]
+pikabu.ru##a[href*="mediakit"]
 pikabu.ru##div[class^="header__app-link-wrapper"]
 pikabu.ru##div[id="menu-companies"]
 pikabu.ru##.header_with-ads[style] a[href="/alfa"]
