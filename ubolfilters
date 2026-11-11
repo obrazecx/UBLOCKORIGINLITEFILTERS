@@ -32,6 +32,8 @@ mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
 #Pikabu
 pikabu.ru##div.thematic-campaign
+pikabu.ru##a[href*="max.ru"]
+pikabu.ru##a[href*="vk.ru"]
 pikabu.ru##a[href*="alfa"]
 pikabu.ru##a[href*="companies"]
 pikabu.ru##a[href*="mediakit"]
@@ -51,6 +53,7 @@ pikabu.ru##.story:has(.story__user-link[href*="/@RaketaPay"])
 pikabu.ru##.story:has(.story__user-link[href*="/@aimarketcap"])
 pikabu.ru##.story:has(.story__user-link[href*="/@Vseinstrumenti"])
 pikabu.ru##.story:has(.story__user-link[href*="/@Finder"])
+pikabu.ru##.story:has(.story__user-link[href*="/@rabota.pikabu"])
 #скаМ
 web.max.ru##button:has-text(Звонки)
 web.max.ru##button:has-text(Каналы)
