@@ -32,9 +32,9 @@ mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
 #Pikabu
 pikabu.ru##div.thematic-campaign
-pikabu.ru###menu-companies
-pikabu.ru##a.sidebar-menu__item_alfa
-pikabu.ru##a[href][rel][data-button]
+pikabu.ru##a[href*="alfa"]
+pikabu.ru##a[href*="companies]
+pikabu.ru##a[href*="mediakit]
 pikabu.ru##div[class^="header__app-link-wrapper"]
 pikabu.ru##div[id="menu-companies"]
 pikabu.ru##.header_with-ads[style] a[href="/alfa"]
@@ -50,7 +50,8 @@ pikabu.ru##.story:has(.story__user-link[href*="/@PikabuGames"])
 pikabu.ru##.story:has(.story__user-link[href*="/@RaketaPay"])
 pikabu.ru##.story:has(.story__user-link[href*="/@aimarketcap"])
 pikabu.ru##.story:has(.story__user-link[href*="/@Vseinstrumenti"])
-lk.cdek.ru##iframe[width][scrolling][src][style]
-#
+pikabu.ru##.story:has(.story__user-link[href*="/@Finder"])
+#скаМ
 web.max.ru##button:has-text(Звонки)
 web.max.ru##button:has-text(Каналы)
+lk.cdek.ru##iframe[width][scrolling][src][style]
