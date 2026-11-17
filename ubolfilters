@@ -32,6 +32,8 @@ mail.ru##div.sidebar-navigation-mailspace-tooltip
 mail.ru##div.themes-widget-cloudy__button
 #Pikabu
 pikabu.ru##div.thematic-campaign
+pikabu.ru##a[href*="promokod.pikabu.ru"]
+pikabu.ru##a[href*="neuro.pikabu.ru"]
 pikabu.ru##a[href*="max.ru"]
 pikabu.ru##a[href*="vk.ru"]
 pikabu.ru##a[href*="alfa"]
