@@ -40,7 +40,7 @@ pikabu.ru##a[href*="alfa"]
 pikabu.ru##a[href*="companies"]
 pikabu.ru##a[href*="mediakit"]
 pikabu.ru##div[class^="header__app-link-wrapper"]
-pikabu.ru##div[id="pkb-coupon-block"]
+pikabu.ru##div[class^="pkb-coupon"]
 pikabu.ru##div[id="menu-companies"]
 pikabu.ru##.header_with-ads[style] a[href="/alfa"]
 pikabu.ru##div.story-block.story-block_type_fundraising
