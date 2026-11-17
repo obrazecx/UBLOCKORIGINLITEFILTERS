@@ -54,7 +54,7 @@ pikabu.ru##.story:has(.story__user-link[href*="/@aimarketcap"])
 pikabu.ru##.story:has(.story__user-link[href*="/@Vseinstrumenti"])
 pikabu.ru##.story:has(.story__user-link[href*="/@Finder"])
 pikabu.ru##.story:has(.story__user-link[href*="/@rabota.pikabu"])
-pikabu.ru##article.story:has([data-tag*="Контент нейросетей"])
+#pikabu.ru##article.story:has([data-tag*="Контент нейросетей"])
 #скаМ
 web.max.ru##button:has-text(Звонки)
 web.max.ru##button:has-text(Каналы)
